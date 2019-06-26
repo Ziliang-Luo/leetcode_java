@@ -12,6 +12,7 @@ public class E977 {
         return A;
     }
 
+
     public static void main(String[] args) {
         int[] A = {-4,-1,0,3,10};
         sortedSquares(A);
