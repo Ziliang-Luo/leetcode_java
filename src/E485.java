@@ -10,7 +10,7 @@ public class E485 {
                 max = Math.max(max, sum);
         }
         return max;
-    
+
     }
 
     public static void main(String[] args) {
